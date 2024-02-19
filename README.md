@@ -13,6 +13,7 @@
 <h3 align="center"> contact </h3>
 <p align="center">
   <a href="mailto:ejk5148@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ejk5148@gmail.com"/></a>
+  <a href="https://www.notion.so/HOME-f59a57630cfc4e94bfa0e16b2c9768fb"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=notion&logoColor=black"/></a>
 </p>
 
 ## education
