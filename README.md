@@ -4,8 +4,8 @@
 <h3 align="center"> Tech Stack </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0080FF?stlye=plastic&logo=python&logoColor=white"/>
-  <img src ="https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=flat-plastic&logo=pytorch&logoColor=white"/>
-  <img src ="https://img.shields.io/badge/opencv-5C3EE8.svg?&style=flat-plastic&logo=opencv&logoColor=white"/>
+  <img src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-plastic&logo=pytorch&logoColor=white"/>
+  <img src ="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-plastic&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/YOLOv5-181717?style=flat-plastic&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Jetson Nano-76B900?style=flat-plastic&logo=NVIDIA&logoColor=white"/>
 </p>
